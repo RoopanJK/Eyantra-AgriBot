@@ -1,5 +1,0 @@
-moveit_task2
-/home/jkr/eyantra_ws/devel/.private/moveit_task2/cmake.lock /home/jkr/eyantra_ws/devel/./cmake.lock
-/home/jkr/eyantra_ws/devel/.private/moveit_task2/lib/pkgconfig/moveit_task2.pc /home/jkr/eyantra_ws/devel/lib/pkgconfig/moveit_task2.pc
-/home/jkr/eyantra_ws/devel/.private/moveit_task2/share/moveit_task2/cmake/moveit_task2Config.cmake /home/jkr/eyantra_ws/devel/share/moveit_task2/cmake/moveit_task2Config.cmake
-/home/jkr/eyantra_ws/devel/.private/moveit_task2/share/moveit_task2/cmake/moveit_task2Config-version.cmake /home/jkr/eyantra_ws/devel/share/moveit_task2/cmake/moveit_task2Config-version.cmake

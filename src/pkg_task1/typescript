@@ -1,0 +1,42 @@
+Script started on 2022-09-13 11:56:21+05:30 [TERM="eterm-color" TTY="/dev/pts/1" COLUMNS="104" LINES="55"]
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mpkg_task1[00m [K[?2004hscripts[?2004l
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?2004hlls[?2004l
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?2004hlls[?2004l
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?2004httut touch task1i .launch[?2004l
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?2004h[m[27m[24m[J[01;32m➜  [36mscripts[00m [m[27m[24m[J[01;32m➜  [36mscripts[00m lls[?2004l
+task1.launch
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mscripts[00m [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mpkg_task1[00m [K[?2004hlls[?2004l
+CMakeLists.txt  [0m[01;34minclude[0m  package.xml  [01;34mscripts[0m  [01;34msrc[0m  typescript
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mpkg_task1[00m [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36msrc[00m [K[?2004hlls[?2004l
+[0m[01;34mebot_gazebo[0m               [01;34mpkg_task0[0m  [01;34mrobotiq_85_gripper-master[0m  [01;34mtutorial_ros_basics[0m
+[01;34mgazebo_ros_link_attacher[0m  [01;34mpkg_task1[0m  [01;34mtomato_gazebo[0m              [01;34mur_description[0m
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36msrc[00m [K[?2004heebot_gazebo[1m/[m[m/
+[J[01;34mlaunch[0m/  [J[01;34mmeshes[0m/  [J[01;34mrviz[0m/    [J[01;34murdf[0m/  [J[A[m[27m[24m[7Cebot_gazebo/[K[?2004l
+[J[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mebot_gazebo[00m [K[?2004hlls[?2004l
+CMakeLists.txt  [0m[01;34mlaunch[0m  [01;34mmeshes[0m  package.xml  [01;34mrviz[0m  [01;34murdf[0m
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mebot_gazebo[00m [K[?2004hllaunch[?2004l
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mlaunch[00m [K[?2004hlls[?2004l
+agri_bot_visualize.launch  ebot_trolley_ur5.launch  task0.launch    task2.launch
+ebot.launch                ebot_visualize.launch    task1_3.launch
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mlaunch[00m [K[?2004hrrm 0 -rf task0.launch[1m [m[m [?2004l
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mlaunch[00m [K[?2004hlls[?2004l
+agri_bot_visualize.launch  ebot_trolley_ur5.launch  task1_3.launch
+ebot.launch                ebot_visualize.launch    task2.launch
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mlaunch[00m [K[?2004h   .  [m[27m[24m[J[01;32m➜  [36mlaunch[00m [m[27m[24m[J[01;32m➜  [36mlaunch[00m mm [?2004l
+zsh: command not found: m
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;31m➜  [36mlaunch[00m [K[?2004hcclear[?2004l
+[H[J[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mlaunch[00m [K[?2004hlls[?2004l
+agri_bot_visualize.launch  ebot_trolley_ur5.launch  task1_3.launch
+ebot.launch                ebot_visualize.launch    task2.launch
+[1m[7m%[27m[1m[m                                                                                                        [m[27m[24m[J[01;32m➜  [36mlaunch[00m [K[?2004hrrm - r  vvim ts ask
+[J[0mtask1_3.launch  [Jtask2.launch  [J[A[m[27m[24m[10Cvim task[K1_3.launch
+[J[7mtask1_3.launch[0m  [Jtask2.launch  [J[A[m[27m[24m[10Cvim task1_3.launch[K
+[7mtask1_3.launch[0m  [7mtask1_3.launch[0m  [A[m[27m[24m[10Cvim task1_3.launch[K
+[J[A[28C[1m [m[m [?2004l
+[J[1;55r[27m[24m[m[H[J[55;1H"task1_3.launch" 39L, 1268C[2;1H▽[6n[2;1H  [1;1H[1;1H<launch>[2;9H<!--  ebot with ur5 -->[3;9H<param name="robot_description" command="$(find xacro)/xacro '$(find ebot_gazebo)/urdf/agri_bot.[4;1Hxacro'"/>[6;9H<!-- Spawn the robot model -->[7;9H<arg name="x" default="0.8"/>[8;9H<arg name="y" default="-1.362"/>[9;9H<arg name="z" default="0.169"/>[10;9H<arg name="yaw" default="1.57"/>[12;9H<node name="mybot_spawn" pkg="gazebo_ros" type="spawn_model" output="screen"[13;17Hargs="-urdf -param robot_description -model ebot -x $(arg x) -y $(arg y) -z $(arg z) -Y
+$(arg yaw) " />[16;9H<!-- load tomato plant with greenhouse model -->[17;9H<include file="$(find tomato_gazebo)/launch/wall_follow.launch"/>[19;9H<!-- Teams can call their controller.py script here, create a node -->[22;9H<!--  -->[24;9H<!-- Recording nodes -->[25;9H<arg name="rec_name" default="task1.bag"/>[26;9H<arg name="record" default="true"/>[27;9H<group if="$(arg record)">[29;17H<node name="state_node" pkg="topic_tools" type="throttle"[30;25Hargs="messages /gazebo/model_states 10.0"/>[32;17H<node name="task1_rosbag" pkg="rosbag" type="record" args="record -O $(find ebot_nav)/ba[33;1Hg_files/AB#1464.bag[34;25H/gazebo/model_states_throttle[35;25H/odom[36;25H/cmd_vel" output="screen"/>[37;25H</group>[39;9H<!-- Recording nodes ends-->[40;9H<node name="controller" pkg="ebot_nav" type="ebot_controller.py" output="screen" />
+
+</launch>
+[1m[34m~                                                                                                       [44;1H~                                                                                                       [45;1H~                                                                                                       [46;1H~                                                                                                       [47;1H~                                                                                                       [48;1H~                                                                                                       [49;1H~                                                                                                       [50;1H~                                                                                                       [51;1H~                                                                                                       [52;1H~                                                 

@@ -1,0 +1,10 @@
+#my_config.yaml configuration
+
+details:
+  name:
+    first: "Hisenberg"
+    last: "White"
+
+  contact:
+    address: "XYZ street, XYZ"
+    phone: 990090

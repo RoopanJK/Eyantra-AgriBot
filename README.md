@@ -23,8 +23,8 @@ https://user-images.githubusercontent.com/82260000/192268518-3e632555-38e6-4475-
  
  1) Use the UR5 robot arm to collect tomatoes in the greehouse 
  
- 
-![Alt Text](https://github.com/RoopanJKR/Eyantra-AgriBot/blob/main/assets/Task_2)
+
+https://user-images.githubusercontent.com/82260000/192269740-bc42f93a-0a4b-40e3-804f-5eebe461a2ea.mp4
 
 
 
